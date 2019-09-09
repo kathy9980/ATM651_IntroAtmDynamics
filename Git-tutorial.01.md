@@ -30,7 +30,7 @@ upstream        https://github.com/ATMOcanes/ATM651_IntroAtmDynamics.git (push)
 ```
   git pull upstream master
 ```
-Let's check if we have the latest update `TAexam.md` from the upstream.
+**Let's check if we have the latest update `TAexam.md` from the upstream.**
 ```
 ls
 ATM651_conda_environment.yml  README.md
