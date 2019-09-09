@@ -1,4 +1,4 @@
-## This is a tutorial to clone and keep updates of the forked repo (Win10)
+## This is a tutorial to clone and keep updates of the forked repo 
 Here are 3 steps for how you can set up the GitHub space, your local repository, and class upstream.
 
 ### 1. Open your [Git BASH](https://gitforwindows.org/) and Clone your fork 
