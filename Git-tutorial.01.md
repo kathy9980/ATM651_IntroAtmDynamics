@@ -2,9 +2,10 @@
 Here are 3 steps for how you can set up the GitHub space, your local repository, and class upstream.
 
 ### 1. Open your [Git BASH](https://gitforwindows.org/) and Clone your fork 
-- [username/ATM651_IntroAtmDynamics](https://github.com/kathy9980/ATM651_IntroAtmDynamics) - This is my fork as an example.
+- Change the [username] below to your GitHub username
 
   `git clone https://github.com/[username]/ATM651_IntroAtmDynamics`
+  
 - Go into the forked repository on your hard drive
   
   `cd ATM651_IntroAtmDynamics`
