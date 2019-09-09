@@ -27,7 +27,7 @@ upstream        https://github.com/ATMOcanes/ATM651_IntroAtmDynamics.git (push)
 ```
   git fetch upstream
 ``` 
-### 3. Updating your fork from original repo to keep up with their changes:
+### 3. Updating your local fork from original repo to keep up with their changes
 ```
   git pull upstream master
 ```
@@ -41,4 +41,4 @@ LICENSE                       Unit1-Terminology_and_Tools/
 ```
 Yeah! Up to date!
 
-Acknowledgement: This tutoridal is based on Wei-ming's lecture and [CristinaSolana's notebook](https://gist.github.com/CristinaSolana/1885435#file-gistfile1-md).
+Acknowledgement: This tutoridal is based on Wei-Ming's lecture and [CristinaSolana's notebook](https://gist.github.com/CristinaSolana/1885435#file-gistfile1-md).
