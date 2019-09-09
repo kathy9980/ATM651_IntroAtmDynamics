@@ -1,6 +1,8 @@
 ## This is a tutorial to clone and keep updates of the forked repo (Win10)
+Here are 3 steps for how you can set up the GitHub space, your local repository, and class upstream.
+
 ### 1. Open your [Git BASH](https://gitforwindows.org/) and Clone your fork 
-- [username/ATM651_IntroAtmDynamics](https://github.com/kathy9980/ATM651_IntroAtmDynamics) - This is my example
+- [username/ATM651_IntroAtmDynamics](https://github.com/kathy9980/ATM651_IntroAtmDynamics) - This is my fork as an example.
 
   `git clone https://github.com/[username]/ATM651_IntroAtmDynamics`
 - change to the forked repository on your hard drive
@@ -39,4 +41,5 @@ LICENSE                       Unit1-Terminology_and_Tools/
 Yeah! Up to date!
 
 This tutoridal is based on Wei-ming's lecture and [CristinaSolana's notebook](https://gist.github.com/CristinaSolana/1885435#file-gistfile1-md).
+
 09/09/2019
