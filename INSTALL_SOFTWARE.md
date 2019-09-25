@@ -1,10 +1,10 @@
 # ATM651, University of Miami, Fall 2019
 
-## How to use IDV
+## How to use IDV:
 
 1. Install [The IDV](https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp). From its Tools->Plugin Manager menu, choose Customized IDVs->Mapes IDV Collection. Study my IDV usage (and pitfalls) instructions powerpoint [here](http://bit.ly/2m9zS9s).
 
-## How to use this repo of Jupyter notebooks in combination with the IDV:
+## How to use Jupyter notebooks:
 
 1. install [Jupyter notebooks via the miniconda package](https://unidata.github.io/python-workshop/installation.html).
 

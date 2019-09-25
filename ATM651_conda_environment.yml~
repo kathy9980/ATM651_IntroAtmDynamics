@@ -16,9 +16,6 @@ dependencies:
    - shapely
    - siphon
    - xarray
-   - fastparquet
-   - psutil
-   - fsspec
    - pip
    - ffmpeg
    - pytest
@@ -26,4 +23,4 @@ dependencies:
      - python-awips
      - mpldatacursor
      - drilsdown
-     - mseplots-pkg
+     - mesplots-pkg
