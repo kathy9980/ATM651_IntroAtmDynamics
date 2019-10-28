@@ -23,7 +23,6 @@ dependencies:
    - ffmpeg
    - pytest
    - pip:
-     - python-awips
      - mpldatacursor
-     - drilsdown
+     - ipyidv
      - mseplots-pkg
